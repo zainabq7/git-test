@@ -1,1 +1,3 @@
-Hi this is my first file saved in git
+here is some text,
+This is the text to integrate the second new feature
+Here is some more text
