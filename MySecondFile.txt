@@ -1,3 +1,2 @@
 This is some text in my second file on git 
 this is some important text
-some wrong text
