@@ -1,8 +1,8 @@
-/* Start of master branch edits */
+/* New line of text at the startafter removing conflict */
 here is some text,
 /* Add some new text here */
 This is the text to integrate the second new feature
 /* Now add some new text here */
 /* Add some new text here, as well */
 Here is some more text
-/* End of master branch edits */
+/* New line of text at the end after removing conflict */
